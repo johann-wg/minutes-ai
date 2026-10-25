@@ -1,0 +1,14 @@
+{
+  "meeting_date": "2026-10-20",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["2時間"]}
+  ],
+  "action_items": [
+    {"owner": ["한소희", "ハン・ソヒ", "ハンソヒ", "韓"], "due": "2026-10-22", "keywords": ["FAQ"]},
+    {"owner": ["윤재현", "ユン・ジェヒョン", "ユンジェヒョン", "尹"], "due": "2026-10-26", "keywords": ["再発", "報告書"]}
+  ],
+  "open_issues": [
+    {"keywords": ["週末", "人員", "人材", "要員"]}
+  ]
+}

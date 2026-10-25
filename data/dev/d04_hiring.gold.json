@@ -1,0 +1,14 @@
+{
+  "meeting_date": "2026-10-15",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["オンライン"]}
+  ],
+  "action_items": [
+    {"owner": ["加藤"], "due": "2026-10-16", "keywords": ["日程", "連絡"]},
+    {"owner": ["小林"], "due": "2026-10-19", "keywords": ["評価シート"]}
+  ],
+  "open_issues": [
+    {"keywords": ["役員"]}
+  ]
+}

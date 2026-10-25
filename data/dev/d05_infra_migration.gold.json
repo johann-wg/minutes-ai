@@ -1,0 +1,16 @@
+{
+  "meeting_date": "2026-10-20",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["11月7日", "11/7", "2026-11-07"]},
+    {"keywords": ["TTL"]}
+  ],
+  "action_items": [
+    {"owner": ["吉田"], "due": "2026-10-23", "keywords": ["切り戻し"]},
+    {"owner": ["山口"], "due": "2026-10-22", "keywords": ["監視"]},
+    {"owner": ["松本"], "due": "2026-10-26", "keywords": ["告知", "停止"]}
+  ],
+  "open_issues": [
+    {"keywords": ["バックアップ", "保持期間"]}
+  ]
+}

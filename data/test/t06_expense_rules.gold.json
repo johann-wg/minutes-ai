@@ -1,0 +1,15 @@
+{
+  "meeting_date": "2026-10-13",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["電子"]},
+    {"keywords": ["タクシー"]}
+  ],
+  "action_items": [
+    {"owner": ["西村"], "due": "2026-10-16", "keywords": ["案内"]},
+    {"owner": ["原田"], "due": "2026-10-31", "keywords": ["設定", "経理システム"]}
+  ],
+  "open_issues": [
+    {"keywords": ["日当", "海外出張"]}
+  ]
+}

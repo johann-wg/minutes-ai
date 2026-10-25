@@ -1,0 +1,14 @@
+{
+  "meeting_date": "2026-10-15",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["分納", "先行出荷"]}
+  ],
+  "action_items": [
+    {"owner": ["岡田"], "due": "2026-10-16", "keywords": ["納期"]},
+    {"owner": ["前田"], "due": "2026-10-15", "keywords": ["在庫"]}
+  ],
+  "open_issues": [
+    {"keywords": ["送料"]}
+  ]
+}

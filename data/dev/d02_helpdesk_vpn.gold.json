@@ -1,0 +1,15 @@
+{
+  "meeting_date": "2026-10-08",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["5.2", "最新版"]}
+  ],
+  "action_items": [
+    {"owner": ["山本"], "due": "2026-10-08", "keywords": ["VPN", "接続設定"]},
+    {"owner": ["中村"], "due": "2026-10-09", "keywords": ["再起動", "バージョン"]},
+    {"owner": ["山本"], "due": "2026-10-09", "keywords": ["リセット", "手順", "パスワード"]}
+  ],
+  "open_issues": [
+    {"keywords": ["モバイルルーター", "予備回線", "貸し出し"]}
+  ]
+}

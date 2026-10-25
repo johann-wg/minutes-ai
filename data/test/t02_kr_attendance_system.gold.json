@@ -1,0 +1,14 @@
+{
+  "meeting_date": "2026-10-28",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["B社", "B사"]}
+  ],
+  "action_items": [
+    {"owner": ["최유나", "チェ・ユナ", "チェユナ", "崔"], "due": "2026-11-06", "keywords": ["契約"]},
+    {"owner": ["정우진", "チョン・ウジン", "チョンウジン", "鄭"], "due": "2026-10-31", "keywords": ["移行", "移管"]}
+  ],
+  "open_issues": [
+    {"keywords": ["モバイル", "アプリ"]}
+  ]
+}

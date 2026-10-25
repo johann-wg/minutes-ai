@@ -1,0 +1,14 @@
+{
+  "meeting_date": "2026-10-22",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["レビュー", "2名"]}
+  ],
+  "action_items": [
+    {"owner": ["藤田"], "due": "2026-10-26", "keywords": ["CI", "テスト"]},
+    {"owner": ["石井"], "due": "2026-10-23", "keywords": ["報告書"]}
+  ],
+  "open_issues": [
+    {"keywords": ["当番", "夜間リリース"]}
+  ]
+}

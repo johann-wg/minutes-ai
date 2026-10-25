@@ -1,0 +1,15 @@
+{
+  "meeting_date": "2026-10-13",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["JSON"]}
+  ],
+  "action_items": [
+    {"owner": ["이지은", "イ・ジウン", "イジウン", "李"], "due": "2026-10-16", "keywords": ["仕様書", "明細書", "API"]},
+    {"owner": ["渡辺", "와타나베", "ワタナベ"], "due": "2026-10-14", "keywords": ["ファイアウォール", "ポート", "防火壁"]},
+    {"owner": ["김민수", "キム・ミンス", "キムミンス", "金"], "due": null, "keywords": ["日程", "会議"]}
+  ],
+  "open_issues": [
+    {"keywords": ["テストデータ"]}
+  ]
+}

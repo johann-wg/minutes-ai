@@ -1,0 +1,15 @@
+{
+  "meeting_date": "2026-10-26",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["SNS"]}
+  ],
+  "action_items": [
+    {"owner": ["森"], "due": "2026-10-30", "keywords": ["クリエイティブ"]},
+    {"owner": ["池田"], "due": "2026-11-04", "keywords": ["予算"]},
+    {"owner": ["橋本"], "due": null, "keywords": ["インフルエンサー"]}
+  ],
+  "open_issues": [
+    {"keywords": ["テレビ", "CM"]}
+  ]
+}

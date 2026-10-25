@@ -1,0 +1,16 @@
+{
+  "meeting_date": "2026-10-05",
+  "output_lang": "ja",
+  "decisions": [
+    {"keywords": ["11月16日", "11/16", "2026-11-16"]},
+    {"keywords": ["バナー"]}
+  ],
+  "action_items": [
+    {"owner": ["鈴木"], "due": "2026-10-09", "keywords": ["テスト環境"]},
+    {"owner": ["高橋"], "due": "2026-10-14", "keywords": ["デザイン", "修正案"]},
+    {"owner": ["伊藤"], "due": "2026-10-20", "keywords": ["テスト計画"]}
+  ],
+  "open_issues": [
+    {"keywords": ["ポイント"]}
+  ]
+}
